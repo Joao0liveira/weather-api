@@ -1,0 +1,1169 @@
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:urllib3.connectionpool:Starting new HTTP connection (1): r3.o.lencr.org:80
+DEBUG:urllib3.connectionpool:http://r3.o.lencr.org:80 "POST / HTTP/1.1" 200 503
+DEBUG:pymongo.ocsp_support:OCSP response status: <OCSPResponseStatus.SUCCESSFUL: 0>
+DEBUG:pymongo.ocsp_support:Verifying response
+DEBUG:pymongo.ocsp_support:Responder is issuer
+DEBUG:pymongo.ocsp_support:Caching OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440645&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 560
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442778&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 536
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3439781&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 529
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3439525&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 529
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442098&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 490
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:Peer did not staple an OCSP response
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:pymongo.ocsp_support:Requesting OCSP data
+DEBUG:pymongo.ocsp_support:Trying http://r3.o.lencr.org
+DEBUG:pymongo.ocsp_support:Using cached OCSP response.
+DEBUG:pymongo.ocsp_support:OCSP cert status: <OCSPCertStatus.GOOD: 0>
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3443341&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 539
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442233&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 533
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440781&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 501
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441572&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 514
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441575&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 483
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442546&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 512
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3443207&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 480
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441287&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 533
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441686&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 512
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441242&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 517
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440639&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 554
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442585&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 508
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441354&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 474
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442057&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 542
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442727&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 524
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3443411&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 546
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3439705&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 511
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440054&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 513
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441890&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 543
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441684&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 544
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440714&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 482
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440711&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 530
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440696&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 479
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441894&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 493
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3443173&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 528
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441665&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 529
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441702&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 503
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442007&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 513
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440963&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 539
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3443413&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 545
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440034&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 512
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440571&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 533
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440033&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 539
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3443025&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 556
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441243&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 529
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440789&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 524
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3443737&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 529
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442568&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 547
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440771&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 511
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440777&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 506
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442587&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 561
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3439749&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 542
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442597&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 549
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441358&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 484
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442980&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 537
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442750&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 543
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442051&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 499
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3443352&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 542
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441442&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 556
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442398&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 504
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442163&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 509
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3443533&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 490
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440942&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 509
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442720&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 538
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441273&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 517
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442071&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 516
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442683&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 480
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442105&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 509
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3443030&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 475
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441011&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 495
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440021&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 518
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440925&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 531
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3480823&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 496
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441292&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 503
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440379&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 537
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442106&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 518
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3439696&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 539
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440063&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 538
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442231&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 552
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442926&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 478
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442050&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 529
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440698&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 532
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3480819&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 485
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442450&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 540
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442584&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 524
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3443632&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 497
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441122&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 500
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440791&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 511
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441475&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 494
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3480818&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 492
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3439780&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 515
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440780&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 517
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442805&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 502
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3443861&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 524
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=7838849&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 496
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440581&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 533
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440830&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 545
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3443758&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 506
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3443756&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 520
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3443013&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 556
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3439590&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 526
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3439619&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 507
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3439598&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 527
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3439622&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 506
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3439652&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 510
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3439659&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 512
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3439725&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 509
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3439748&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 519
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3439661&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 533
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3439787&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 498
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3439838&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 479
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440055&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 543
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3439902&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 545
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3439831&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 518
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440076&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 524
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440400&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 531
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440394&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 516
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440541&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 536
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440554&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 531
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440577&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 522
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440596&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 528
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440653&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 532
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440580&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 534
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440684&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 534
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440654&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 530
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440705&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 532
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440747&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 529
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440762&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 542
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440879&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 555
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440939&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 497
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3440985&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 539
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441074&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 486
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441114&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 538
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441377&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 520
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441476&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 532
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441483&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 553
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441481&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 545
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441577&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 526
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441659&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 517
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441674&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 522
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441803&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 510
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441954&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 533
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442058&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 511
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3441988&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 546
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442138&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 531
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442206&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 549
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442221&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 524
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442236&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 487
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442238&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 543
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442299&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 534
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442716&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 550
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442766&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 515
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442803&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 506
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3442939&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 554
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3443061&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 503
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3443183&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 517
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3443256&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 509
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3443280&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 504
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3443289&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 510
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3443342&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 524
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3443356&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 527
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3443588&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 527
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3443631&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 512
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3443697&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 514
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3443644&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 507
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3443909&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 498
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3443928&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 537
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3443952&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 523
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3480820&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 501
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3480812&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 548
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): api.openweathermap.org:443
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3480822&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 505
+DEBUG:urllib3.connectionpool:https://api.openweathermap.org:443 "GET /data/2.5/weather?id=3480825&appid=893df91214b959a96bc91ed189b80865 HTTP/1.1" 200 534

@@ -1,0 +1,5 @@
+{
+"user":"weather-user",
+"password": "_Rd$Cmzi2MTWu9n",
+"path": "mongodb+srv://weather-user:_Rd$Cmzi2MTWu9n@cluster0.pxwfx.mongodb.net/myFirstDatabase?retryWrites=true&w=majority"
+}
