@@ -1,8 +1,8 @@
-===================================================================================================================================================
+
 
 # Weather App -> Python, FastAPI and MongoDB Cloud
 
-===================================================================================================================================================
+
 
 This app consists of a FastAPI server that handles to types of requests endpoints: 
 -POST?id=<str> 
@@ -19,15 +19,15 @@ Used by its performance and easy to use integration
 
 
 
-===================================================================================================================================================
-Auxiliary Services
-===================================================================================================================================================
 
-# DB Manager:
+# Auxiliary Services
+
+
+## DB Manager:
 
 Service responsible to handle the connection and interactions with MongoDB
 
-# Weather Service:
+## Weather Service:
 
 Composed of two classes, WeatherManager and WeatherService.
 Which have the objective of creating asynchronous parallel services based on multiple threads.
@@ -38,9 +38,9 @@ When the limit of 60 is broken, the services have to
 wait the cooldown time, which is given by the difference of the time of the first call and the last one.
 
 
-===================================================================================================================================================
+
 # How to use
-===================================================================================================================================================
+
 - Clone the repositorie
 - Build the docker image 
     Example: docker build . -t weather-api
@@ -60,9 +60,9 @@ Example: localhost:8000/api/v1/get?id=<id>
 ## FastAPI Docs
 You may access the GUI of FastAPI through localhost:8000/docs where you will be able to test the endpoints and their response
 
-===================================================================================================================================================
+
 # How to test
-===================================================================================================================================================
+
 Set the env variable API_TEST=1
 Then on the /src 
 run the command: pytest test.py
@@ -73,4 +73,3 @@ After the tests run the dbpurge.py file to clean the DB from test data
 
 
 
-===================================================================================================================================================
