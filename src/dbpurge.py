@@ -1,5 +1,5 @@
 from pymongo import MongoClient
-from routes.services.db_manager import DBManager
+from src.routes.services.db_manager import DBManager
 import sys
 import os
 

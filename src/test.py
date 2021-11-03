@@ -4,12 +4,17 @@ from pymongo import MongoClient
 from src.routes.services.db_manager import DBManager
 from src.routes.api import router
 import time
+import os
+from src.dbpurge import sanitize_db_test
 
 app = FastAPI()
 app.include_router(router)
 client = TestClient(app)
 
 base_url = 'http://127.0.0.1:8000/api/v1'
+
+def teardown_module():
+    sanitize_db_test()
 
 def test_route_post():
     id = 'test-alfa'
